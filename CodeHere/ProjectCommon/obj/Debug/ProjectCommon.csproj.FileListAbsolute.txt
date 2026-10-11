@@ -1,0 +1,58 @@
+D:\ProjectFiles\WaSender\CodeCanyon\CodeHere\ProjectCommon\bin\Debug\ProjectCommon.dll
+D:\ProjectFiles\WaSender\CodeCanyon\CodeHere\ProjectCommon\bin\Debug\ProjectCommon.pdb
+D:\ProjectFiles\WaSender\CodeCanyon\CodeHere\ProjectCommon\bin\Debug\KeySecurity.dll
+D:\ProjectFiles\WaSender\CodeCanyon\CodeHere\ProjectCommon\bin\Debug\Models.dll
+D:\ProjectFiles\WaSender\CodeCanyon\CodeHere\ProjectCommon\bin\Debug\Newtonsoft.Json.dll
+D:\ProjectFiles\WaSender\CodeCanyon\CodeHere\ProjectCommon\bin\Debug\System.Data.SQLite.dll
+D:\ProjectFiles\WaSender\CodeCanyon\CodeHere\ProjectCommon\bin\Debug\System.Data.SQLite.EF6.dll
+D:\ProjectFiles\WaSender\CodeCanyon\CodeHere\ProjectCommon\bin\Debug\System.Data.SQLite.Linq.dll
+D:\ProjectFiles\WaSender\CodeCanyon\CodeHere\ProjectCommon\bin\Debug\WebDriver.dll
+D:\ProjectFiles\WaSender\CodeCanyon\CodeHere\ProjectCommon\bin\Debug\FluentValidation.dll
+D:\ProjectFiles\WaSender\CodeCanyon\CodeHere\ProjectCommon\obj\Debug\ProjectCommon.csprojResolveAssemblyReference.cache
+D:\ProjectFiles\WaSender\CodeCanyon\CodeHere\ProjectCommon\obj\Debug\ProjectCommon.dll
+D:\ProjectFiles\WaSender\CodeCanyon\CodeHere\ProjectCommon\obj\Debug\ProjectCommon.pdb
+C:\Users\pichau\Documents\WaSender\CodeHere\ProjectCommon\bin\Debug\ProjectCommon.dll
+C:\Users\pichau\Documents\WaSender\CodeHere\ProjectCommon\bin\Debug\ProjectCommon.pdb
+C:\Users\pichau\Documents\WaSender\CodeHere\ProjectCommon\bin\Debug\KeySecurity.dll
+C:\Users\pichau\Documents\WaSender\CodeHere\ProjectCommon\bin\Debug\Models.dll
+C:\Users\pichau\Documents\WaSender\CodeHere\ProjectCommon\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pichau\Documents\WaSender\CodeHere\ProjectCommon\bin\Debug\System.Data.SQLite.dll
+C:\Users\pichau\Documents\WaSender\CodeHere\ProjectCommon\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\pichau\Documents\WaSender\CodeHere\ProjectCommon\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\pichau\Documents\WaSender\CodeHere\ProjectCommon\bin\Debug\WebDriver.dll
+C:\Users\pichau\Documents\WaSender\CodeHere\ProjectCommon\bin\Debug\FluentValidation.dll
+C:\Users\pichau\Documents\WaSender\CodeHere\ProjectCommon\obj\Debug\ProjectCommon.csproj.AssemblyReference.cache
+C:\Users\pichau\Documents\WaSender\CodeHere\ProjectCommon\obj\Debug\ProjectCommon.csproj.CoreCompileInputs.cache
+C:\Users\pichau\Documents\WaSender\CodeHere\ProjectCommon\obj\Debug\ProjectC.6432CAE7.Up2Date
+C:\Users\pichau\Documents\WaSender\CodeHere\ProjectCommon\obj\Debug\ProjectCommon.dll
+C:\Users\pichau\Documents\WaSender\CodeHere\ProjectCommon\obj\Debug\ProjectCommon.pdb
+E:\01 - Negocios\WaSender\WhatsBot\CodeHere\ProjectCommon\bin\Debug\ProjectCommon.dll
+E:\01 - Negocios\WaSender\WhatsBot\CodeHere\ProjectCommon\bin\Debug\ProjectCommon.pdb
+E:\01 - Negocios\WaSender\WhatsBot\CodeHere\ProjectCommon\bin\Debug\KeySecurity.dll
+E:\01 - Negocios\WaSender\WhatsBot\CodeHere\ProjectCommon\bin\Debug\Models.dll
+E:\01 - Negocios\WaSender\WhatsBot\CodeHere\ProjectCommon\bin\Debug\Newtonsoft.Json.dll
+E:\01 - Negocios\WaSender\WhatsBot\CodeHere\ProjectCommon\bin\Debug\System.Data.SQLite.dll
+E:\01 - Negocios\WaSender\WhatsBot\CodeHere\ProjectCommon\bin\Debug\System.Data.SQLite.EF6.dll
+E:\01 - Negocios\WaSender\WhatsBot\CodeHere\ProjectCommon\bin\Debug\System.Data.SQLite.Linq.dll
+E:\01 - Negocios\WaSender\WhatsBot\CodeHere\ProjectCommon\bin\Debug\WebDriver.dll
+E:\01 - Negocios\WaSender\WhatsBot\CodeHere\ProjectCommon\bin\Debug\FluentValidation.dll
+E:\01 - Negocios\WaSender\WhatsBot\CodeHere\ProjectCommon\obj\Debug\ProjectCommon.csproj.AssemblyReference.cache
+E:\01 - Negocios\WaSender\WhatsBot\CodeHere\ProjectCommon\obj\Debug\ProjectCommon.csproj.CoreCompileInputs.cache
+E:\01 - Negocios\WaSender\WhatsBot\CodeHere\ProjectCommon\obj\Debug\ProjectC.6432CAE7.Up2Date
+E:\01 - Negocios\WaSender\WhatsBot\CodeHere\ProjectCommon\obj\Debug\ProjectCommon.dll
+E:\01 - Negocios\WaSender\WhatsBot\CodeHere\ProjectCommon\obj\Debug\ProjectCommon.pdb
+E:\Dev\Projetos\15 - WhatsBot\WhatsBot\CodeHere\ProjectCommon\bin\Debug\ProjectCommon.dll
+E:\Dev\Projetos\15 - WhatsBot\WhatsBot\CodeHere\ProjectCommon\bin\Debug\ProjectCommon.pdb
+E:\Dev\Projetos\15 - WhatsBot\WhatsBot\CodeHere\ProjectCommon\bin\Debug\KeySecurity.dll
+E:\Dev\Projetos\15 - WhatsBot\WhatsBot\CodeHere\ProjectCommon\bin\Debug\Models.dll
+E:\Dev\Projetos\15 - WhatsBot\WhatsBot\CodeHere\ProjectCommon\bin\Debug\Newtonsoft.Json.dll
+E:\Dev\Projetos\15 - WhatsBot\WhatsBot\CodeHere\ProjectCommon\bin\Debug\System.Data.SQLite.dll
+E:\Dev\Projetos\15 - WhatsBot\WhatsBot\CodeHere\ProjectCommon\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Dev\Projetos\15 - WhatsBot\WhatsBot\CodeHere\ProjectCommon\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Dev\Projetos\15 - WhatsBot\WhatsBot\CodeHere\ProjectCommon\bin\Debug\WebDriver.dll
+E:\Dev\Projetos\15 - WhatsBot\WhatsBot\CodeHere\ProjectCommon\bin\Debug\FluentValidation.dll
+E:\Dev\Projetos\15 - WhatsBot\WhatsBot\CodeHere\ProjectCommon\obj\Debug\ProjectCommon.csproj.AssemblyReference.cache
+E:\Dev\Projetos\15 - WhatsBot\WhatsBot\CodeHere\ProjectCommon\obj\Debug\ProjectCommon.csproj.CoreCompileInputs.cache
+E:\Dev\Projetos\15 - WhatsBot\WhatsBot\CodeHere\ProjectCommon\obj\Debug\ProjectC.6432CAE7.Up2Date
+E:\Dev\Projetos\15 - WhatsBot\WhatsBot\CodeHere\ProjectCommon\obj\Debug\ProjectCommon.dll
+E:\Dev\Projetos\15 - WhatsBot\WhatsBot\CodeHere\ProjectCommon\obj\Debug\ProjectCommon.pdb

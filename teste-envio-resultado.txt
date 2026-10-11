@@ -1,0 +1,69 @@
+﻿=== Teste iniciado 09/10/2026 23:04:02 ===
+23:04:02 CSV carregado: 648099 bytes
+23:04:02 WebView2 inicializado com perfil: C:\ProgramData\WaSender\Profiles\EBWebView
+23:04:02 Navegando para web.whatsapp.com...
+23:04:03 navegacao concluida: ok
+23:04:05 pagina carregada
+23:04:07 estado pagina: WhatsApp End-to-end encrypted Don't close this window. Your messages are downloading.
+23:04:07 sincronizacao concluida (ou ja estava pronta)
+23:04:09 WPP ausente - injetando (tentativa 1)
+23:04:09 [console] __console LOG LOG
+23:04:09 [console] __console LOG LOG
+23:04:11 WPP presente, versao: 4.6.1
+23:04:13 WPP isReady: aguardando
+23:04:23 WPP isReady: aguardando
+23:04:33 WPP isReady: aguardando
+23:04:43 WPP isReady: aguardando
+23:04:53 WPP isReady: aguardando
+23:05:03 WPP isReady: aguardando
+23:05:13 WPP isReady: aguardando
+23:05:23 WPP isReady: aguardando
+23:05:33 WPP isReady: aguardando
+23:05:43 WPP isReady: aguardando
+23:05:43 indo para diagnostico (ready=aguardando)
+23:05:45 --- DIAGNOSTICOS ---
+23:05:45 PAGINA: {"canvas":false}
+23:05:46 DIAG: {"version":"4.6.1","q_existe":"wid=5551985719297@c.us|lid=null|biz=undefined"}
+23:05:47 CONTATOS: {"total":8867,"amostra":[{"id":"555196933949@c.us","pn":null,"name":"Eu Arpini 1"},{"id":"13135550002@c.us","pn":null,"name":"Meta AI"},{"id":"100021366182110@lid","pn":null,"name":null},{"id":"554799720823@c.us","pn":null,"name":null},{"id":"10007408074993@lid","pn":null,"name":"Sécullos Ana"},{"id":"553433149504@c.us","pn":null,"name":"Sécullos Ana"}]}
+23:05:48 CHAT MODEL (por LID): {"id":"228423574261910@lid","contactId":"228423574261910@lid","contactPn":null,"pn":null,"keys":["pendingMsgs","labels","lastReceivedKey","id","accountLid","t","unreadCount","unreadDividerOffset","archive","isReadOnly","isLocked","isAnnounceGrpRestrict","modifyTag","muteExpiration","mentionAllMuteExpiration","callMuteExpiration","isAutoMuted","wallpaper","showDoodle","chatThemeId","colorSchemeId","stockWallpaperImageId","wallpaperValue","chatThemeValue","name","notSpam","pin","changeNumberOldJid","changeNumberNewJid","capiThreadControl","isAiHandoff","aiHandoffRemovalExpiry","aiHandoffStartedAt","suggestedRepliesEnabled","capiCallingPermissionType","ephemeralDuration","ephemeralSettingTimestamp","afterReadDuration","disappearingModeInitiator","disappearingModeTrigger"],"contactKeys":["id","name","shortName","pushname","type","isDeactivated","verifiedName","isBusiness","isEnterprise","isSmb","verifiedLevel","privacyMode","statusMute","parentStatusMute","sectionHeader","labels","isContactSyncCompleted","forcedBusinessUpdateFromServer","disappearingModeDuration","disappearingModeSettingTimestamp","isEphemeralityDisabled","textStatusString","textStatusEmoji","textStatusEphemeralDuration","textStatusLastUpdateTime","textStatusExpiryTs","requestedPnTimestamp","username","usernameKey","usernameCountryCode","isUsernameContact","externalUserState","syncToAddressbook"]}
+23:05:48 --- ENVIANDO MENSAGEM DE TESTE para 5551985719297 (fallback LID) ---
+23:05:48 [console] __console ERROR ERROR
+23:05:50 ENVIO: OK_LID|228423574261910@lid|{"type":"object","id":"true_228423574261910@lid_3EB0912DF1CFA1C219F54F","ack":1}
+23:05:50 --- verificando entrega (15s) ---
+23:06:06 ULTIMAS MSGS (ack: 0=fila,1=enviado,2=entregue,3=lida): {"phone":"ERRO:Chat not found for 5551985719297@c.us","lid":"sem-lid"}
+23:06:06 --- RESULTADO: MENSAGEM CRIADA E ENVIADA ---
+23:06:06 === fim do teste ===
+23:04:02 CSV carregado: 648099 bytes
+23:04:02 WebView2 inicializado com perfil: C:\ProgramData\WaSender\Profiles\EBWebView
+23:04:02 Navegando para web.whatsapp.com...
+23:04:03 navegacao concluida: ok
+23:04:05 pagina carregada
+23:04:07 estado pagina: WhatsApp End-to-end encrypted Don't close this window. Your messages are downloading.
+23:04:07 sincronizacao concluida (ou ja estava pronta)
+23:04:09 WPP ausente - injetando (tentativa 1)
+23:04:09 [console] __console LOG LOG
+23:04:09 [console] __console LOG LOG
+23:04:11 WPP presente, versao: 4.6.1
+23:04:13 WPP isReady: aguardando
+23:04:23 WPP isReady: aguardando
+23:04:33 WPP isReady: aguardando
+23:04:43 WPP isReady: aguardando
+23:04:53 WPP isReady: aguardando
+23:05:03 WPP isReady: aguardando
+23:05:13 WPP isReady: aguardando
+23:05:23 WPP isReady: aguardando
+23:05:33 WPP isReady: aguardando
+23:05:43 WPP isReady: aguardando
+23:05:43 indo para diagnostico (ready=aguardando)
+23:05:45 --- DIAGNOSTICOS ---
+23:05:45 PAGINA: {"canvas":false}
+23:05:46 DIAG: {"version":"4.6.1","q_existe":"wid=5551985719297@c.us|lid=null|biz=undefined"}
+23:05:47 CONTATOS: {"total":8867,"amostra":[{"id":"555196933949@c.us","pn":null,"name":"Eu Arpini 1"},{"id":"13135550002@c.us","pn":null,"name":"Meta AI"},{"id":"100021366182110@lid","pn":null,"name":null},{"id":"554799720823@c.us","pn":null,"name":null},{"id":"10007408074993@lid","pn":null,"name":"Sécullos Ana"},{"id":"553433149504@c.us","pn":null,"name":"Sécullos Ana"}]}
+23:05:48 CHAT MODEL (por LID): {"id":"228423574261910@lid","contactId":"228423574261910@lid","contactPn":null,"pn":null,"keys":["pendingMsgs","labels","lastReceivedKey","id","accountLid","t","unreadCount","unreadDividerOffset","archive","isReadOnly","isLocked","isAnnounceGrpRestrict","modifyTag","muteExpiration","mentionAllMuteExpiration","callMuteExpiration","isAutoMuted","wallpaper","showDoodle","chatThemeId","colorSchemeId","stockWallpaperImageId","wallpaperValue","chatThemeValue","name","notSpam","pin","changeNumberOldJid","changeNumberNewJid","capiThreadControl","isAiHandoff","aiHandoffRemovalExpiry","aiHandoffStartedAt","suggestedRepliesEnabled","capiCallingPermissionType","ephemeralDuration","ephemeralSettingTimestamp","afterReadDuration","disappearingModeInitiator","disappearingModeTrigger"],"contactKeys":["id","name","shortName","pushname","type","isDeactivated","verifiedName","isBusiness","isEnterprise","isSmb","verifiedLevel","privacyMode","statusMute","parentStatusMute","sectionHeader","labels","isContactSyncCompleted","forcedBusinessUpdateFromServer","disappearingModeDuration","disappearingModeSettingTimestamp","isEphemeralityDisabled","textStatusString","textStatusEmoji","textStatusEphemeralDuration","textStatusLastUpdateTime","textStatusExpiryTs","requestedPnTimestamp","username","usernameKey","usernameCountryCode","isUsernameContact","externalUserState","syncToAddressbook"]}
+23:05:48 --- ENVIANDO MENSAGEM DE TESTE para 5551985719297 (fallback LID) ---
+23:05:48 [console] __console ERROR ERROR
+23:05:50 ENVIO: OK_LID|228423574261910@lid|{"type":"object","id":"true_228423574261910@lid_3EB0912DF1CFA1C219F54F","ack":1}
+23:05:50 --- verificando entrega (15s) ---
+23:06:06 ULTIMAS MSGS (ack: 0=fila,1=enviado,2=entregue,3=lida): {"phone":"ERRO:Chat not found for 5551985719297@c.us","lid":"sem-lid"}
+23:06:06 --- RESULTADO: MENSAGEM CRIADA E ENVIADA ---
+23:06:06 === fim do teste ===

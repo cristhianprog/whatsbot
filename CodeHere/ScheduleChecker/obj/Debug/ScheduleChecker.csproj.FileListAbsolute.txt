@@ -1,0 +1,45 @@
+D:\ProjectFiles\WASender\CodeCanyon\CodeHere\ScheduleChecker\bin\Debug\ScheduleChecker.exe.config
+D:\ProjectFiles\WASender\CodeCanyon\CodeHere\ScheduleChecker\bin\Debug\ScheduleChecker.exe
+D:\ProjectFiles\WASender\CodeCanyon\CodeHere\ScheduleChecker\bin\Debug\ScheduleChecker.pdb
+D:\ProjectFiles\WASender\CodeCanyon\CodeHere\ScheduleChecker\bin\Debug\MaterialSkin.dll
+D:\ProjectFiles\WASender\CodeCanyon\CodeHere\ScheduleChecker\bin\Debug\ProjectCommon.dll
+D:\ProjectFiles\WASender\CodeCanyon\CodeHere\ScheduleChecker\bin\Debug\Models.dll
+D:\ProjectFiles\WASender\CodeCanyon\CodeHere\ScheduleChecker\bin\Debug\WebDriver.dll
+D:\ProjectFiles\WASender\CodeCanyon\CodeHere\ScheduleChecker\bin\Debug\System.Data.SQLite.dll
+D:\ProjectFiles\WASender\CodeCanyon\CodeHere\ScheduleChecker\bin\Debug\Newtonsoft.Json.dll
+D:\ProjectFiles\WASender\CodeCanyon\CodeHere\ScheduleChecker\bin\Debug\KeySecurity.dll
+D:\ProjectFiles\WASender\CodeCanyon\CodeHere\ScheduleChecker\bin\Debug\FluentValidation.dll
+D:\ProjectFiles\WASender\CodeCanyon\CodeHere\ScheduleChecker\bin\Debug\ProjectCommon.pdb
+D:\ProjectFiles\WASender\CodeCanyon\CodeHere\ScheduleChecker\obj\Debug\ScheduleChecker.csprojResolveAssemblyReference.cache
+D:\ProjectFiles\WASender\CodeCanyon\CodeHere\ScheduleChecker\obj\Debug\ScheduleChecker.Properties.Resources.resources
+D:\ProjectFiles\WASender\CodeCanyon\CodeHere\ScheduleChecker\obj\Debug\ScheduleChecker.ScheduleChecker.resources
+D:\ProjectFiles\WASender\CodeCanyon\CodeHere\ScheduleChecker\obj\Debug\ScheduleChecker.csproj.GenerateResource.Cache
+D:\ProjectFiles\WASender\CodeCanyon\CodeHere\ScheduleChecker\obj\Debug\ScheduleChecker.exe
+D:\ProjectFiles\WASender\CodeCanyon\CodeHere\ScheduleChecker\obj\Debug\ScheduleChecker.pdb
+D:\ProjectFiles\WASender\CodeCanyon\CodeHere\WASender\bin\Debug\ScheduleChecker.exe.config
+D:\ProjectFiles\WASender\CodeCanyon\CodeHere\ScheduleChecker.exe.config
+D:\ProjectFiles\WASender\CodeCanyon\CodeHere\WASender\bin\Debug\ScheduleChecker.exe
+D:\ProjectFiles\WASender\CodeCanyon\CodeHere\WASender\bin\Debug\ScheduleChecker.pdb
+C:\Users\pichau\Documents\WaSender\CodeHere\WASender\bin\Debug\ScheduleChecker.exe.config
+C:\Users\pichau\Documents\WaSender\CodeHere\WASender\bin\Debug\ScheduleChecker.exe
+C:\Users\pichau\Documents\WaSender\CodeHere\WASender\bin\Debug\ScheduleChecker.pdb
+C:\Users\pichau\Documents\WaSender\CodeHere\ScheduleChecker\obj\Debug\ScheduleChecker.csproj.AssemblyReference.cache
+C:\Users\pichau\Documents\WaSender\CodeHere\ScheduleChecker\obj\Debug\ScheduleChecker.exe.config
+C:\Users\pichau\Documents\WaSender\CodeHere\ScheduleChecker\obj\Debug\ScheduleChecker.Properties.Resources.resources
+C:\Users\pichau\Documents\WaSender\CodeHere\ScheduleChecker\obj\Debug\ScheduleChecker.ScheduleChecker.resources
+C:\Users\pichau\Documents\WaSender\CodeHere\ScheduleChecker\obj\Debug\ScheduleChecker.csproj.GenerateResource.cache
+C:\Users\pichau\Documents\WaSender\CodeHere\ScheduleChecker\obj\Debug\ScheduleChecker.csproj.CoreCompileInputs.cache
+C:\Users\pichau\Documents\WaSender\CodeHere\ScheduleChecker\obj\Debug\Schedule.762D7194.Up2Date
+C:\Users\pichau\Documents\WaSender\CodeHere\ScheduleChecker\obj\Debug\ScheduleChecker.exe
+C:\Users\pichau\Documents\WaSender\CodeHere\ScheduleChecker\obj\Debug\ScheduleChecker.pdb
+E:\Dev\Projetos\15 - WhatsBot\WhatsBot\CodeHere\WASender\bin\Debug\ScheduleChecker.exe.config
+E:\Dev\Projetos\15 - WhatsBot\WhatsBot\CodeHere\WASender\bin\Debug\ScheduleChecker.exe
+E:\Dev\Projetos\15 - WhatsBot\WhatsBot\CodeHere\WASender\bin\Debug\ScheduleChecker.pdb
+E:\Dev\Projetos\15 - WhatsBot\WhatsBot\CodeHere\ScheduleChecker\obj\Debug\ScheduleChecker.csproj.AssemblyReference.cache
+E:\Dev\Projetos\15 - WhatsBot\WhatsBot\CodeHere\ScheduleChecker\obj\Debug\ScheduleChecker.Properties.Resources.resources
+E:\Dev\Projetos\15 - WhatsBot\WhatsBot\CodeHere\ScheduleChecker\obj\Debug\ScheduleChecker.ScheduleChecker.resources
+E:\Dev\Projetos\15 - WhatsBot\WhatsBot\CodeHere\ScheduleChecker\obj\Debug\ScheduleChecker.csproj.GenerateResource.cache
+E:\Dev\Projetos\15 - WhatsBot\WhatsBot\CodeHere\ScheduleChecker\obj\Debug\ScheduleChecker.csproj.CoreCompileInputs.cache
+E:\Dev\Projetos\15 - WhatsBot\WhatsBot\CodeHere\ScheduleChecker\obj\Debug\Schedule.762D7194.Up2Date
+E:\Dev\Projetos\15 - WhatsBot\WhatsBot\CodeHere\ScheduleChecker\obj\Debug\ScheduleChecker.exe
+E:\Dev\Projetos\15 - WhatsBot\WhatsBot\CodeHere\ScheduleChecker\obj\Debug\ScheduleChecker.pdb
